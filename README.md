@@ -45,10 +45,6 @@ IPL_Player_Performance/
 │── LICENSE
 ```
 
-## 📸 Project Preview
-
-![IPL Player Performance](prediction-preview.png)
-
 ---
 
 ## 📊 Dataset
@@ -108,6 +104,21 @@ Example:
 - Working with CSV datasets
 - Python programming
 - Google Colab workflow
+
+---
+
+## 📊 Results
+
+- Cleaned and analyzed IPL player performance data.
+- Identified performance trends using statistical analysis.
+- Visualized key player metrics with Python.
+- Built a predictive analysis workflow using Scikit-learn.
+
+---
+
+## 📸 Project Preview
+
+![IPL Player Performance](prediction-preview.png)
 
 ---
 
