@@ -28,7 +28,8 @@ The objective of this project is to analyze IPL player performance using a real-
 - Pandas
 - NumPy
 - Matplotlib
-
+- Seaborn
+- Scikit-learn
 > Add **Seaborn** or **Scikit-learn** only if your notebook actually uses them.
 
 ---
