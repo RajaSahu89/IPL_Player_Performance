@@ -45,6 +45,10 @@ IPL_Player_Performance/
 │── LICENSE
 ```
 
+## 📸 Project Preview
+
+![IPL Player Performance](prediction-preview.png)
+
 ---
 
 ## 📊 Dataset
